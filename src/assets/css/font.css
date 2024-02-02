@@ -1,0 +1,208 @@
+@font-face {
+  font-family: "Dune Rise";
+  src: url("../fonts/Dune_Rise.woff2") format("woff2"),
+    url("../fonts/Dune_Rise.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dune Rise";
+  src: url("../fonts/Dune_Rise.woff2") format("woff2"),
+    url("../fonts/Dune_Rise.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "lineaX";
+  src: url("../fonts/lineaX.eot?w90xvp");
+  src: url("../fonts/lineaX.eot?w90xvp#iefix") format("embedded-opentype"),
+    url("../fonts/lineaX.ttf?w90xvp") format("truetype"),
+    url("../fonts/lineaX.woff?w90xvp") format("woff"),
+    url("../fonts/lineaX.svg?w90xvp#lineaX") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="lineax-"],
+[class*=" lineax-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "lineaX" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.lineax-beaker:before {
+  content: "\e935";
+}
+.lineax-magnifying-glass:before {
+  content: "\e934";
+}
+.lineax-rectangle-group-full:before {
+  content: "\e933";
+}
+.lineax-arrow-small-right:before {
+  content: "\e932";
+}
+.lineax-add-filled:before {
+  content: "\e900";
+}
+.lineax-archive-box:before {
+  content: "\e901";
+}
+.lineax-archive-box2:before {
+  content: "\e902";
+}
+.lineax-arrow-down:before {
+  content: "\e903";
+}
+.lineax-arrow-path:before {
+  content: "\e904";
+}
+.lineax-arrow-right-circle:before {
+  content: "\e905";
+}
+.lineax-arrow-small-down:before {
+  content: "\e906";
+}
+.lineax-arrow-small-left:before {
+  content: "\e907";
+}
+.lineax-arrow-up-right:before {
+  content: "\e908";
+}
+.lineax-bars-3-center-left:before {
+  content: "\e909";
+}
+.lineax-book-open:before {
+  content: "\e90a";
+}
+.lineax-check:before {
+  content: "\e90b";
+}
+.lineax-check-circle:before {
+  content: "\e90c";
+}
+.lineax-chevron-down:before {
+  content: "\e90d";
+}
+.lineax-chevron-left:before {
+  content: "\e90e";
+}
+.lineax-chevron-right:before {
+  content: "\e90f";
+}
+.lineax-cube-transparent:before {
+  content: "\e910";
+}
+.lineax-deposit:before {
+  content: "\e911";
+}
+.lineax-discord:before {
+  content: "\e912";
+}
+.lineax-duplicate:before {
+  content: "\e913";
+}
+.lineax-earnings:before {
+  content: "\e914";
+}
+.lineax-efficient:before {
+  content: "\e915";
+}
+.lineax-ellipse:before {
+  content: "\e916";
+}
+.lineax-eye:before {
+  content: "\e917";
+}
+.lineax-funnel:before {
+  content: "\e918";
+}
+.lineax-gas:before {
+  content: "\e919";
+}
+.lineax-home:before {
+  content: "\e91a";
+}
+.lineax-launch:before {
+  content: "\e91b";
+}
+.lineax-learn-more:before {
+  content: "\e91c";
+}
+.lineax-line-right:before {
+  content: "\e91d";
+}
+.lineax-mapker:before {
+  content: "\e91e";
+}
+.lineax-mark:before {
+  content: "\e91f";
+}
+.lineax-mirror:before {
+  content: "\e920";
+}
+.lineax-pencil:before {
+  content: "\e921";
+}
+.lineax-pool-solid:before {
+  content: "\e922";
+}
+.lineax-rectangle-group:before {
+  content: "\e923";
+}
+.lineax-seamless:before {
+  content: "\e924";
+}
+.lineax-security:before {
+  content: "\e925";
+}
+.lineax-setting:before {
+  content: "\e926";
+}
+.lineax-share:before {
+  content: "\e927";
+}
+.lineax-sparkles:before {
+  content: "\e928";
+}
+.lineax-square-2-stack:before {
+  content: "\e929";
+}
+.lineax-squares-22:before {
+  content: "\e92a";
+}
+.lineax-stack-3d:before {
+  content: "\e92b";
+}
+.lineax-star:before {
+  content: "\e92c";
+}
+.lineax-stop-circle:before {
+  content: "\e92d";
+}
+.lineax-telegram:before {
+  content: "\e92e";
+}
+.lineax-top-right-on-square:before {
+  content: "\e92f";
+}
+.lineax-twitter:before {
+  content: "\e930";
+}
+.lineax-wallet:before {
+  content: "\e931";
+}
